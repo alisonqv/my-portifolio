@@ -76,6 +76,8 @@ body {
 .hamburger {
     display: none;
     cursor: pointer;
+    position: relative;
+    z-index: 9999;
 }
 
 .bar {
